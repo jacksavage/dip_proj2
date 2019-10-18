@@ -1,4 +1,0 @@
-wn = b11 -> add association between w and n segments
-wn = b10 -> add north pixel to w/c group
-wn = b01 -> add c pixel to n group
-wn = b00 -> add c and n to new group
